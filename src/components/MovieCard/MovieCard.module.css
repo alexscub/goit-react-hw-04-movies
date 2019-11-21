@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid #9895a2;
+  box-sizing: border-box;
+  margin: 0;
+}
+.container div {
+  padding-right: 16px;
+}
+.container ul {
+  display: inline;
+  padding: 0;
+}
+.container ul li {
+  display: inline;
+  list-style: none;
+  padding-right: 10px;
+}
